@@ -7,3 +7,4 @@ world/
 whitelist.json
 banned-ips.json
 banned-players.json
+crash-reports
