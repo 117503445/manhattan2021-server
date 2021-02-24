@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:alpine-jre
+FROM openjdk:8
 WORKDIR /root
 ADD . .
 EXPOSE 25565
